@@ -19,6 +19,7 @@ p {
 body{
   background:indianred;
   text-align: center;
+  margin: 40px;
 }
 /* customizable snowflake styling */
 .snowflake {
